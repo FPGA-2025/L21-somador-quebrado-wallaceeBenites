@@ -1,0 +1,8 @@
+VCD info: dumpfile dump.vcd opened for output.
+Teste 1 (0+0): OK
+Teste 2 (1+1): OK
+Teste 3 (5+3): OK
+Teste 4 (15+1): OK
+Teste 5 (7+8): OK
+Teste 6 (10+10): OK
+tb.v:81: $finish called at 60000 (1ps)
